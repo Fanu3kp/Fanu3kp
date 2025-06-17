@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fanuel Otuya</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate frontend and backend developer from Kenya</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: fanuelokeno@gmail.com </h3>
 <p align="left">
 </p>
 
