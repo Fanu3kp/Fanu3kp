@@ -34,6 +34,47 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
-  <!-- Frontend and Backend tools (same as your original list) -->
-  <!-- ... -->
+  <!-- Programming Languages -->
+  🔹 HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
+  🔹 Python, Java, C#, PHP, Ruby, Go, Rust<br>
+  🔹 Bash, PowerShell<br>
+
+  <!-- Frontend Frameworks -->
+  🔹 React.js, Next.js, Vue.js, Nuxt.js, Angular, Svelte<br>
+
+  <!-- Backend Frameworks -->
+  🔹 Node.js, Express.js, Django, Flask, Spring Boot, Laravel, Ruby on Rails, FastAPI<br>
+
+  <!-- Databases -->
+  🔹 PostgreSQL, MySQL, SQLite, MongoDB, Redis, Firebase<br>
+
+  <!-- DevOps & CI/CD -->
+  🔹 Docker, Kubernetes, GitHub Actions, Jenkins, Travis CI, CircleCI<br>
+
+  <!-- Cloud & Hosting -->
+  🔹 AWS (EC2, S3, Lambda), Google Cloud, Azure, Heroku, Vercel, Netlify, Render<br>
+
+  <!-- Version Control & Collaboration -->
+  🔹 Git, GitHub, GitLab, Bitbucket<br>
+
+  <!-- Package Managers -->
+  🔹 npm, Yarn, pip, Composer<br>
+
+  <!-- Testing Tools -->
+  🔹 Jest, Mocha, Cypress, Selenium, PyTest, JUnit<br>
+
+  <!-- Design Tools -->
+  🔹 Figma, Adobe XD, Sketch, Canva<br>
+
+  <!-- CMS & eCommerce -->
+  🔹 WordPress, Ghost, Strapi, Sanity, Shopify<br>
+
+  <!-- Static Site Generators -->
+  🔹 Gatsby, Hugo, Jekyll<br>
+
+  <!-- API Tools -->
+  🔹 Postman, Swagger, GraphQL, REST API<br>
+
+  <!-- Other Tools -->
+  🔹 Webpack, Babel, ESLint, Prettier, Tailwind CSS, Bootstrap, Material UI, Chakra UI<br>
 </p>
