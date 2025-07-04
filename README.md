@@ -1,12 +1,6 @@
-<style>
-  .highlight-blue {
-    color: blue;
-  }
-</style>
-
-<h1 class="highlight-blue">Fanuel Otuya</h1>
-<h3 class="highlight-blue">Email: fanuelokeno@gmail.com</h3>
-<h3 class="highlight-blue">Phone: 0705774020</h3>
+<h1 style="color: blue;">Fanuel Otuya</h1>
+<h3 style="color: blue;">Email: fanuelokeno@gmail.com</h3>
+<h3 style="color: blue;">Phone: 0705774020</h3>
 
 
 
