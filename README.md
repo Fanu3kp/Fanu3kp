@@ -1,4 +1,5 @@
-<h1 style="color: blue;">Fanuel Otuya</h1>
+<h1 style="color: blue;">I'm Fanuel Otuya</h1>
+<h3 style="color: blue;">A frondend and backend developer from Kenya</h3>
 <h3 style="color: blue;">Email: fanuelokeno@gmail.com</h3>
 <h3 style="color: blue;">Phone: 0705774020</h3>
 
