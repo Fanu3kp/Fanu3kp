@@ -1,6 +1,7 @@
-<h1>Fanuel Otuya</h1>
-<h3>Email: fanuelokeno@gmail.com</h3>
-<h3>Phone: 0705774020</h3>
+<h1 style="color: blue;">Fanuel Otuya</h1>
+<h3 style="color: blue;">Email: fanuelokeno@gmail.com</h3>
+<h3 style="color: blue;">Phone: 0705774020</h3>
+
 
 <p align="left">
 
