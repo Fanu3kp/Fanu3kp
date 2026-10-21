@@ -2,7 +2,7 @@
 <div style="border-bottom: 2px solid blue; padding-bottom: 10px; margin-bottom: 20px;">
   <h1 style="color: blue; margin: 0;">Fanuel Okeno</h1>
   <p style="margin: 4px 0; font-weight: bold;">
-    Software Developer | .NET & Angular
+    Software Developer |java Sprigboot & Angular
   </p>
   <p style="margin: 4px 0;">
     📍 Kenya &nbsp; | &nbsp;
@@ -14,7 +14,7 @@
 <h2 style="color: blue;">Professional Credentials</h2>
 <ul>
   <li>Experience in building enterprise-level web applications</li>
-  <li>Strong background in backend development using .NET</li>
+  <li>Strong background in backend development using laravel(php) and java springboot</li>
   <li>Frontend development with Angular and modern UI frameworks</li>
   <li>Database design and integration using SQL Server</li>
   <li>RESTful API design, authentication, and authorization</li>
